@@ -1,4 +1,3 @@
- reyrey only code.
 - Interested in Webdevelopment/Design, and Cybersecurity + Crypto
 - 🌱 Currently learning JavaScript
 - 💞️ Looking to collaborate on: Anything
